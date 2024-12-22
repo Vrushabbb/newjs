@@ -1,11 +1,8 @@
-let num = 69;
-alert('Hint : It is a Sex Position');
-while(true){
-    let j = prompt("Enter Number");
-    if(j==69){
-        alert("Congratulations");
-        break;
-    }
-    alert("Wrong Try Again")
+let company = ["amazon" , "boomerang" , "uber" , "flipkart" ,"IBM" , "netflix"];
+company.push("amazon")
+console.log(company);
 
-}
+
+
+
+
